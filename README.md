@@ -21,6 +21,7 @@ Web Developer
 src="https://img.shields.io/github/followers/aYushv2004?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/ayu_v07" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/ayu_v07?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
+
 ### Badges
 
 <b>My GitHub Stats</b>
